@@ -1,0 +1,129 @@
+$gold: #FFD700;
+
+body {
+    background-color: black;
+    margin: 0px;
+}
+
+.nav-mobile {
+    width: 100%;
+    height: 60px;
+    background-color: gold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-desk {
+    width: 100%;
+    height: 134px;
+    background-color: gold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media only screen and (min-width: 900px) {
+    .nav-mobile {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .nav-desk {
+        display: none;
+    }
+}
+
+.nav-desk img {
+    height: 70%;
+    width: auto;
+}
+
+.nav-mobile-logo {
+    flex-grow: 1;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-mobile-logo img {
+    max-width: 90%;
+    max-height: 80%
+}
+
+.nav-mobile-button {
+    height: 100%;
+    width: 60px;
+    color: white;
+    text-align: center;
+    font-size: 43px;
+}
+
+#social {
+    width: 20%;
+    height: auto;
+    margin-left: 5px;
+    align-self: flex-start;
+    margin-top: 5px;
+}
+
+#menu {
+
+}
+
+#search-container {
+    width: 20%;
+}
+
+#search-input {
+    background-color: #ffe44d;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    margin-right: 5px;
+    width: 198px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
+  font-weight: bold;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  font-weight: bold;
+  color: white;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  font-weight: bold;
+  color: white;
+}
+
+input:focus {
+    outline: none;
+    background-color: #ffe866;
+}
+
+.content-container, .content-container p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.home-img {
+    display: block;
+    min-width: 100px;
+    max-width: 3000px;
+    max-height: 600px;
+    height:auto;
+    margin: auto;
+    width: 300px;
+}
