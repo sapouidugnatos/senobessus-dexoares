@@ -3,6 +3,7 @@ $gold: #FFD700;
 body {
     background-color: black;
     margin: 0px;
+    font-family: Arial;
 }
 
 .nav-mobile {
@@ -12,6 +13,21 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+#side {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    background-color: #ffe44d;
+    width: 50%;
+    height: calc(100% - 60px);
+    z-index: 999;
+    color: black;
+}
+
+#side p,h2 {
+    margin-left: 10px;
 }
 
 .nav-desk {
@@ -25,6 +41,10 @@ body {
 
 @media only screen and (min-width: 900px) {
     .nav-mobile {
+        display: none;
+    }
+    
+    #side {
         display: none;
     }
 }
@@ -70,8 +90,10 @@ body {
     margin-top: 5px;
 }
 
-#menu {
-
+#menu img {
+    width: auto;
+    height: 40%;
+    margin-top: auto;
 }
 
 #search-container {
