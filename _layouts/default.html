@@ -8,11 +8,10 @@
     </head>
     <body>
         {% include nav.html %}
-        <div class="content-wrapper">
-          <div class="content-container">
-            <h2>{{ page.title }}</h2>
-            {{ content }}
-          </div>
+        <div class="content-container">
+          <img class="title-img" src="{{ page.titleimg | relative_url }}">
+          <br />
+          {{ content }}
         </div>
     </body>
 </html>
