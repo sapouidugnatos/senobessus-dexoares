@@ -6,6 +6,10 @@ url: "https://sapouidugnatos.github.io/senobessus-dexoares/"
 twitter_username: sapouidugnatos
 github_username:  sapouidugnatos
 
+collections:
+    articles:
+      output: true
+
 # Build settings
 markdown: kramdown
 plugins:
