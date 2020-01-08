@@ -64,7 +64,7 @@ strong em {
     }
     
     .content-container {
-        min-height: calc(100vh - 134px);
+        min-height: calc(100% - 134px);
         top: 134px;
     }
     
@@ -79,7 +79,7 @@ strong em {
     }
     
     .content-container {
-        min-height: calc(100vh - 60px);
+        min-height: calc(100% - 60px);
         top: 60px;
     }
 }
