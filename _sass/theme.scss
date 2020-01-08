@@ -27,6 +27,11 @@ body {
 }
 
 #side p,h2 {
+    color: black;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-font-smoothing: antialiased;
     margin-left: 10px;
 }
 
