@@ -4,7 +4,7 @@
     </div>
     
     <div class="nav-mobile-logo">
-        <a href="../index.html"><img src="{{ '/assets/img/dexoares-logo-mobile.png' | relative_url }}"></a>
+        <a href="{{ site.baseurl }}{% link index.md %}"><img src="{{ '/assets/img/dexoares-logo-mobile.png' | relative_url }}"></a>
     </div>
 </nav>
 
@@ -13,7 +13,7 @@
     <span>Deu̯oi / Deities</span>
     {% for article in site.articles %}
         {% if article.category == "Deities" %}
-            <a href="{{ article.url }}">&emsp;· {{ article.title }}</a>
+            <a href="{{ article.url | prepend:site.baseurl }}">&emsp;· {{ article.title }}</a>
         {% endif %}
     {% endfor %}
 </div>
