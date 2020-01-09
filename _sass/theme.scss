@@ -224,9 +224,7 @@ a {
 #side span, #side a {
     display: block;
     color: black;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-fill-color: white;
-    -webkit-text-stroke-color: black;
+    font-weight: bold;
     height: 50px;
     width: 100%;
     border-bottom: 5px solid gold;
