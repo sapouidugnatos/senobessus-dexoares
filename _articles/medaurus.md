@@ -16,17 +16,28 @@ titleimg: '/assets/img/medaurus-title.png'
 **_Notus Gradiuo belli uetus ac tibi, Caesar_**<br />
 **_Marce, in primore rarus ubique acie._**<br />
 
+**_You who live in the Aeacian city of Risinium, in the_**<br />
+**_Citadel of Dalmatia, you, common god of our people,_**<br />
+**_Medaurus, sacred at home and sacred here, visit also_**<br />
+**_These temples, I pray to you, great in a small image,_**<br />
+**_With your left hand urging on the horse, which rises into the air,_**<br />
+**_While your other hand hurls death from beside the ear._**<br />
+**_You − so great − the already designated consul, your \[lacuna]_**<br />
+**_Put, worshipping, in this location,_**<br />
+**_Long known to the Mars of war and even to you Caesar_**<br />
+**_Marcus, famous everywhere in the first line of battle._**<br />
+
 **Etymology:**
 
 Although scarce, Illyrian-focused etymological discussions of *Medaurus'* name have proven at least somewhat productive in the past, albeit less recently than would be preferrable. The best explantion comes as early as 1885 when R. Peppmüller interpreted the theonym as "the healer", composed of the Indo-European root \**med-* meaning, in Peppmüller's words, "sinnen, ermessen, heilen", and an aggentive suffix \**-auro-*.\[1]\[2]\[3] Alternatively, *Medaurus* could also be formed from the root \**tauro-* with a prefix *ἀνά, νά, μά, or μἑ*.\[4]
 
 **Function:**
 
-*Medaurus* is typically understood as a war god, as protector of the city of Risinium and its borders, which can be inferred from His invocation by a group of border guards from Risinium.\[5] However, he also played a significant role as a healer. In this regard, he may be understood in the framework of martial deities who "\[save] lives from diseases, and not only those of soldiers but other people as well."\[6]
+*Medaurus* is typically understood as a war god, as protector of the city of Risinium and its borders, which can be inferred from His invocation by a group of border guards from Risinium.\[5] However, he has also played a significant role as a healer. In this regard, he may be understood in the framework of martial deities who "\[save] lives from diseases, and not only those of soldiers but other people as well."\[6]
 
 **Interpretatio:**
 
-Although a connection unattested epigraphically, votive monuments to *Medaurus* were erected in a temple to Asclepius in North Africa.\[7]
+Although a connection unattested epigraphically, votive monuments to *Medaurus* were erected by Illyrian soldiers in a temple to Asclepius in North Africa.\[7]
 
 **Iconography:**
 

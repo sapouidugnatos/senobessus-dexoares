@@ -4,12 +4,18 @@
     </div>
     
     <div class="nav-mobile-logo">
-        <img src="{{ '/assets/img/dexoares-logo-mobile.png' | relative_url }}">
+        <a href="../index.html"><img src="{{ '/assets/img/dexoares-logo-mobile.png' | relative_url }}"></a>
     </div>
 </nav>
 
 <div id="side" style="visibility: hidden;">
     <h2>Menu</h2>
+    <span>Deu̯oi / Deities</span>
+    {% for article in site.articles %}
+        {% if article.category == "Deities" %}
+            <a href="{{ article.url }}">&emsp;· {{ article.title }}</a>
+        {% endif %}
+    {% endfor %}
 </div>
 
 <nav class="nav-desk" id="nav-desk">

@@ -220,3 +220,17 @@ p strong {
 a {
     color: gold;
 }
+
+#side span, #side a {
+    display: block;
+    color: black;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    height: 50px;
+    width: 100%;
+    border-bottom: 5px solid gold;
+    line-height: 50px;
+    text-indent: 10px;
+    text-decoration: none;
+}
